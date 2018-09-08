@@ -1,0 +1,236 @@
+country_id,name,short_name,iso_code,translation_id
+1000,Unknown,UNK,0,1000
+1,Ukraine,UKR,804,1
+9,Russian Federation,RUS,643,9
+3,Belarus,BLR,112,3
+4,Kazakhstan,KAZ,398,4
+5,Azerbaijan,AZE,31,5
+6,Armenia,ARM,51,6
+7,Georgia,GEO,268,7
+8,Israel,ISR,376,8
+2,United States of America,USA,840,2
+10,Canada,CAN,124,10
+11,Kyrgyzstan,KGZ,417,11
+12,Latvia,LVA,428,12
+13,Lithuania,LTU,440,13
+14,Estonia,EST,233,14
+15,Moldova,MDA,498,15
+16,Tajikistan,TJK,762,16
+17,Turkmenistan,TKM,795,17
+18,Uzbekistan,UZB,860,18
+19,Australia,AUS,36,19
+20,Austria,AUT,40,20
+21,Albania,ALB,8,21
+22,Algeria,DZA,12,22
+23,American Samoa,ASM,16,23
+24,Anguilla,AIA,660,24
+25,Angola,AGO,24,25
+26,Andorra,AND,20,26
+27,Antigua and Barbuda,ATG,28,27
+28,Argentina,ARG,32,28
+29,Aruba,ABW,533,29
+30,Afghanistan,AFG,4,30
+31,Bahamas,BHS,44,31
+32,Bangladesh,BGD,50,32
+33,Barbados,BRB,52,33
+34,Bahrain,BHR,48,34
+35,Belize,BLZ,84,35
+36,Belgium,BEL,56,36
+37,Benin,BEN,204,37
+38,Bermuda,BMU,60,38
+39,Bulgaria,BGR,100,39
+40,Bolivia,BOL,68,40
+41,Bosnia and Herzegovina,BIH,70,41
+42,Botswana,BWA,72,42
+43,Brazil,BRA,76,43
+44,Brunei Darussalam,BRN,96,44
+45,Burkina Faso,BFA,854,45
+46,Burundi,BDI,108,46
+47,Bhutan,BTN,64,47
+48,Vanuatu,VUT,548,48
+49,United Kingdom,GBR,826,49
+50,Hungary,HUN,348,50
+51,Venezuela,VEN,862,51
+52,British Virgin Islands,VGB,92,52
+53,US Virgin Islands,VIR,850,53
+54,East Timor,TVR,626,54
+55,Vietnam,VNM,704,55
+56,Gabon,GAB,266,56
+57,Haiti,HTI,332,57
+58,Guyana,GUY,328,58
+59,Gambia,GMB,270,59
+60,Ghana,GHA,288,60
+61,Guadeloupe,GLP,312,61
+62,Guatemala,GTM,320,62
+63,Guinea,GIN,324,63
+64,Guinea-Bissau,GNB,624,64
+65,Germany,DEU,276,65
+66,Gibraltar,GIB,292,66
+67,Honduras,HND,340,67
+68,Hong Kong,HKG,344,68
+69,Grenada,GRD,308,69
+70,Greenland,GRL,304,70
+71,Greece,GRC,300,71
+72,Guam,GUM,316,72
+73,Denmark,DNK,208,73
+74,Dominica,DMA,212,74
+75,Dominican Republic,DOM,214,75
+76,Egypt,EGY,818,76
+77,Zambia,ZMB,894,77
+78,Western Sahara,ESH,732,78
+79,Zimbabwe,ZWE,716,79
+80,India,IND,356,80
+81,Indonesia,IDN,360,81
+82,Jordan,JOR,400,82
+83,Iraq,IRQ,368,83
+84,Iran,IRN,364,84
+85,Ireland,IRL,372,85
+86,Iceland,ISL,352,86
+87,Spain,ESP,724,87
+88,Italy,ITA,380,88
+89,Yemen,YEM,887,89
+90,Cape Verde,CPV,132,90
+91,Cambodia,KHM,116,91
+92,Cameroon,CMR,120,92
+93,Qatar,QAT,634,93
+94,Kenya,KEN,404,94
+95,Cyprus,CYP,196,95
+96,Kiribati,KIR,296,96
+97,China,CHN,156,97
+98,Colombia,COL,170,98
+99,Comoros,COM,174,99
+100,Congo,COG,178,100
+101,"Congo, Democratic Republic",COD,180,101
+102,Costa Rica,CRI,188,102
+103,Côte d`Ivoire,CIV,384,103
+104,Cuba,CUB,192,104
+105,Kuwait,KWT,414,105
+106,Laos,LAO,418,106
+107,Lesotho,LSO,426,107
+108,Liberia,LBR,430,108
+109,Lebanon,LBN,422,109
+110,Libya,LBY,434,110
+111,Liechtenstein,LIE,438,111
+112,Luxembourg,LUX,442,112
+113,Mauritius,MUS,480,113
+114,Mauritania,MRT,478,114
+115,Madagascar,MDG,450,115
+116,Macau,MAC,446,116
+117,Macedonia,MKD,807,117
+118,Malawi,MWI,454,118
+119,Malaysia,MYS,458,119
+120,Mali,MLI,466,120
+121,Maldives,MDV,462,121
+122,Malta,MLT,470,122
+123,Morocco,MAR,504,123
+124,Martinique,MTQ,474,124
+125,Marshall Islands,MHL,584,125
+126,Mexico,MEX,484,126
+127,Micronesia,FSM,583,127
+128,Mozambique,MOZ,508,128
+129,Monaco,MCO,492,129
+130,Mongolia,MNG,496,130
+131,Montserrat,MSR,500,131
+132,Myanmar,MMR,104,132
+133,Namibia,NAM,516,133
+134,Nauru,NRU,520,134
+135,Nepal,NPL,524,135
+136,Niger,NER,562,136
+137,Nigeria,NGA,566,137
+138,Curaçao,CUW,531,138
+139,Netherlands,NLD,528,139
+140,Nicaragua,NIC,558,140
+141,Niue,NIU,570,141
+142,New Zealand,NZL,554,142
+143,New Caledonia,NCL,540,143
+144,Norway,NOR,578,144
+145,United Arab Emirates,ARE,784,145
+146,Oman,OMN,512,146
+147,Isle of Man,IMN,833,147
+148,Norfolk Island,NFK,574,148
+149,Cayman Islands,CYM,136,149
+150,Cook Islands,COK,184,150
+151,Turks and Caicos Islands,TCA,796,151
+152,Pakistan,PAK,586,152
+153,Palau,PLW,585,153
+154,Palestine,PSE,275,154
+155,Panama,PAN,591,155
+156,Papua New Guinea,PNG,598,156
+157,Paraguay,PRY,600,157
+158,Peru,PER,604,158
+159,Pitcairn Islands,PCN,612,159
+160,Poland,POL,616,160
+161,Portugal,PRT,620,161
+162,Puerto Rico,PRI,630,162
+163,Réunion,REU,638,163
+164,Rwanda,RWA,646,164
+165,Romania,ROU,642,165
+166,El Salvador,SLV,222,166
+167,Samoa,WSM,882,167
+168,San Marino,SMR,674,168
+169,São Tomé and Príncipe,STP,678,169
+170,Saudi Arabia,SAU,682,170
+171,Swaziland,SWZ,748,171
+172,Saint Helena,CHN,654,172
+173,North Korea,PRK,408,173
+174,Northern Mariana Islands,MNP,580,174
+175,Seychelles,SYC,690,175
+176,Senegal,SEN,686,176
+177,Saint Vincent and the Grenadines,VCT,670,177
+178,Saint Kitts and Nevis,KNA,659,178
+179,Saint Lucia,LCA,662,179
+180,Saint Pierre and Miquelon,SPM,666,180
+181,Serbia,SRB,688,181
+182,Singapore,SGP,702,182
+183,Syria,SYR,760,183
+184,Slovakia,SVK,703,184
+185,Slovenia,SVN,705,185
+186,Solomon Islands,SLB,90,186
+187,Somalia,SOM,706,187
+188,Sudan,SDN,729,188
+189,Suriname,SUR,740,189
+190,Sierra Leone,SLE,694,190
+191,Thailand,THA,764,191
+192,Taiwan,TWN,158,192
+193,Tanzania,TZA,834,193
+194,Togo,TGO,768,194
+195,Tokelau,TKL,772,195
+196,Tonga,TON,776,196
+197,Trinidad and Tobago,TTO,780,197
+198,Tuvalu,TUV,798,198
+199,Tunisia,TUN,788,199
+200,Turkey,TUR,792,200
+201,Uganda,UGA,800,201
+202,Wallis and Futuna,WLF,876,202
+203,Uruguay,URY,858,203
+204,Faroe Islands,FRO,234,204
+205,Fiji,FJI,242,205
+206,Philippines,PHL,608,206
+207,Finland,FIN,246,207
+208,Falkland Islands,FLK,238,208
+209,France,FRA,250,209
+210,French Guiana,GUF,254,210
+211,French Polynesia,PYF,258,211
+212,Croatia,HRV,191,212
+213,Central African Republic,CAF,140,213
+214,Chad,TCD,148,214
+215,Czech Republic,CZE,203,215
+216,Chile,CHL,152,216
+217,Switzerland,CHE,756,217
+218,Sweden,SWE,752,218
+219,Svalbard and Jan Mayen,SJM,744,219
+220,Sri Lanka,LKA,144,220
+221,Ecuador,ECU,218,221
+222,Equatorial Guinea,GNQ,226,222
+223,Eritrea,ERI,232,223
+224,Ethiopia,ETH,231,224
+226,South Korea,KOR,410,226
+227,South Africa,ZAF,710,227
+228,Jamaica,JAM,388,228
+229,Japan,JPN,392,229
+230,Montenegro,MNE,499,230
+231,Djibouti,DJI,262,231
+232,South Sudan,SSD,728,232
+233,Vatican,VAT,336,233
+234,Sint Maarten,MAF,663,234
+235,"Bonaire, Sint Eustatius and Saba",BES,535,235
